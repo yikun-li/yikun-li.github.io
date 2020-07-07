@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, 
+* Ph.D. in Computer Science
     * University of Groningen ([RUG](https://en.wikipedia.org/wiki/University_of_Groningen)), 2019 - Present
     * Supervisors: Prof. Dr. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. [Soliman Mohamed](https://www.rug.nl/staff/m.a.m.soliman/)
     
