@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Curriculum Vitae"
+    url: /cv/
+
+#  - title: "Guide"
+#    url: /markdown/
