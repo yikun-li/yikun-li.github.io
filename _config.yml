@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Yikun Li"
   avatar           : "yk.jpg"
-  bio              : "PhD Fellow, University of Groningen"
+  bio              : "PhD Fellow"
   location         : "Netherlands"
-  employer         :
+  employer         : "University of Groningen"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=SEuwunoAAAAJ&hl=en"
   email            : "yikun.li[at]rug.nl"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : yikun-li
   google_plus      :
   keybase          :
   instagram        :
