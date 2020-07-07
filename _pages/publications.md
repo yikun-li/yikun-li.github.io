@@ -22,4 +22,4 @@ author_profile: true
     
 * Workshop Papers
     * [W1] **Yikun Li**, Lambert Schomaker, S. Hamidreza Kasaei, “Learning to Detect Grasp
-Affordances of 3D Objects using Deep Convolutional Neural Networks”. In Robotics: Science and Systems (RSS), 2nd Workshop on Task-Informed Grasping (TIG-II): From Perception to Physical Interaction, Freiburg, Germany, 2019. [PDF](https://yikun-li.github.io/publications/TIG-II2019.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/TIG-II2019_BIB.html)
+Affordances of 3D Objects using Deep Convolutional Neural Networks”. In Robotics: Science and Systems (RSS), 2nd Workshop on Task-Informed Grasping (TIG-II): From Perception to Physical Interaction, Freiburg, Germany, 2019. [PDF](https://yikun-li.github.io/publications/TIG-II2019.pdf)
