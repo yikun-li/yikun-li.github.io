@@ -38,5 +38,5 @@ Teaching
 ======
 * Teaching Assistant
     * University of Groningen (RUG) 
-    * [WMAI19003: Multi-agent Systems](https://www.rug.nl/ocasys/rug/vak/show?code=WMAI19003), Apr - Jul 2019
+    * [KIM.MAS03: Multi-Agent Systems](https://www.rug.nl/ocasys/fwn/vak/show?code=KIM.MAS03), Apr - Jul 2019
     * [INMPR-08: Pattern Recognition](https://www.rug.nl/ocasys/rug//vak/show?code=INMPR-08), Nov 2018 - Feb 2019
