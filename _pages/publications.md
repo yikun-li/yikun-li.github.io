@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 * Peer-Reviewed Conference Papers
-    * [C2] **(BEST PAPER AWARD)** **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers”. In 2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), Portorož, Slovenia, 2020, Accepted. [PDF](https://yikun-li.github.io/publications/SEAA2020.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/SEAA2020_BIB.html)
+    * [C2] **(BEST PAPER AWARD)** **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers”. In 2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), Portorož, Slovenia, 2020, Accepted. [PDF](https://yikun-li.github.io/publications/SEAA2020.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/SEAA2020_BIB.html) [CERTIFICATE](https://yikun-li.github.io/publications/SEAA2020_CERT.pdf)
     
     * [C1] **Yikun Li**, Lambert Schomaker, S. Hamidreza Kasaei. “Learning to Grasp 3D Objects using Deep Residual U-Nets”. In 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Naples, Italy, 2020, Accepted. [PDF](https://yikun-li.github.io/publications/RO-MAN2020.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/RO-MAN2020_BIB.html)
     
