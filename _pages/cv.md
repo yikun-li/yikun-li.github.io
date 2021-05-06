@@ -17,7 +17,7 @@ Education
     
 * M.Sc. in Artificial Intelligence
     * University of Groningen (RUG), 2017 - 2019 
-    * Supervisors: Dr. [Hamidreza Kasaei](https://hkasaei.github.io) and Prof. Dr. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/)
+    * Supervisors: Asst. Prof. Dr. [Hamidreza Kasaei](https://hkasaei.github.io) and Prof. Dr. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/)
   
 * B.Sc. in Software Engineering
     * Southeast University ([SEU](https://en.wikipedia.org/wiki/Southeast_University)), 2011 - 2015
