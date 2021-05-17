@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 * Peer-Reviewed Conference Papers
-    * [C3] Mohamed Soliman, Marion Wiese, **Yikun Li**, Matthias Riebisch, Paris Avgeriou. “Exploring Web Search Engines to Find Architectural Knowledge”. In *2021 IEEE International Conference on Software Architecture (ICSA)*, Stuttgart, Germany, 2021, Accepted. [PDF](https://yikun-li.github.io/publications/ICSA2021.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/ICSA2021_BIB.html)
+    * [C3] Mohamed Soliman, Marion Wiese, **Yikun Li**, Matthias Riebisch, Paris Avgeriou. “Exploring Web Search Engines to Find Architectural Knowledge”. In *2021 IEEE International Conference on Software Architecture (ICSA)*, Stuttgart, Germany, 2021. [PDF](https://yikun-li.github.io/publications/ICSA2021.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/ICSA2021_BIB.html)
 
     * [C2] **(BEST PAPER AWARD)** **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers”. In *2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)*, Portorož, Slovenia, 2020. [PDF](https://yikun-li.github.io/publications/SEAA2020.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/SEAA2020_BIB.html) [CERTIFICATE](https://yikun-li.github.io/publications/SEAA2020_CERT.pdf)
     
