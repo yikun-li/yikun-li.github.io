@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Faculty of Science and Engineering at the University of Groningen, supervised by Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Before starting my Ph.D., I obtained my Master Degree in Artificial Intelligence at the University of Groningen under the supervision of Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/
+I am a third-year Ph.D. student in the Faculty of Science and Engineering at the University of Groningen, supervised by Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Before starting my Ph.D., I obtained my Master Degree in Artificial Intelligence at the University of Groningen under the supervision of Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/
 ) and Dr. [Hamidreza Kasaei](https://hkasaei.github.io
 ).
 
