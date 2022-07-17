@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %}
 
 * Peer-Reviewed Journal Articles
-    * [J2] **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning”. Empirical Software Engineering 27, 131, 2022. [PDF](https://yikun-li.github.io/publications/EMSE2022.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022_BIB.html)
+    * [J2] **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning”. *Empirical Software Engineering* 27, 131, 2022. [PDF](https://yikun-li.github.io/publications/EMSE2022.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022_BIB.html)
 
-    * [J1] Mohamed Soliman, Paris Avgeriou, **Yikun Li**. “Architectural Design Decisions That Incur Technical Debt — An Industrial Case Study”. Information and Software Technology, p. 106669, 2021. [PDF](https://yikun-li.github.io/publications/IST2021.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/IST2021_BIB.html)
+    * [J1] Mohamed Soliman, Paris Avgeriou, **Yikun Li**. “Architectural Design Decisions That Incur Technical Debt — An Industrial Case Study”. *Information and Software Technology*, p. 106669, 2021. [PDF](https://yikun-li.github.io/publications/IST2021.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/IST2021_BIB.html)
 
 * Peer-Reviewed Conference Papers
     * [C3] Mohamed Soliman, Marion Wiese, **Yikun Li**, Matthias Riebisch, Paris Avgeriou. “Exploring Web Search Engines to Find Architectural Knowledge”. In *2021 IEEE International Conference on Software Architecture (ICSA)*, Stuttgart, Germany, 2021. [PDF](https://yikun-li.github.io/publications/ICSA2021.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/ICSA2021_BIB.html)
