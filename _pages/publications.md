@@ -16,9 +16,11 @@ author_profile: true
 {% endfor %}
 
 * Peer-Reviewed Journal Articles
-    * [J3] **Yikun Li**, Mohamed Soliman, Paris Avgeriou, Lou Somers. “Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study”. *IEEE Transactions on Software Engineering*, 2022. [PDF](https://yikun-li.github.io/publications/TSE2022.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/TSE2022_BIB.html)
+    * [J4] **Yikun Li**, Mohamed Soliman, Paris Avgeriou, Lou Somers. “Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study”. *IEEE Transactions on Software Engineering*, 2022. [PDF](https://yikun-li.github.io/publications/TSE2022a.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/TSE2022a_BIB.html)
 
-    * [J2] **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning”. *Empirical Software Engineering* 27, 131, 2022. [PDF](https://yikun-li.github.io/publications/EMSE2022.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022_BIB.html)
+    * [J3] **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Automatic Identification of Self-Admitted Technical Debt from Four Different Sources”. *Empirical Software Engineering*, 2022. [PDF](https://yikun-li.github.io/publications/EMSE2022b.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022b_BIB.html)
+
+    * [J2] **Yikun Li**, Mohamed Soliman, Paris Avgeriou. “Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning”. *Empirical Software Engineering* 27, 131, 2022. [PDF](https://yikun-li.github.io/publications/EMSE2022a.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022a_BIB.html)
 
     * [J1] Mohamed Soliman, Paris Avgeriou, **Yikun Li**. “Architectural Design Decisions That Incur Technical Debt — An Industrial Case Study”. *Information and Software Technology*, p. 106669, 2021. [PDF](https://yikun-li.github.io/publications/IST2021.pdf)  [BIB](https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/IST2021_BIB.html)
 
