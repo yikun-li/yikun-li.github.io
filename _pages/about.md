@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year Ph.D. student in the Faculty of Science and Engineering at the University of Groningen, supervised by Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Before starting my Ph.D., I obtained my Master Degree in Artificial Intelligence at the University of Groningen under the supervision of Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/
-) and Dr. [Hamidreza Kasaei](https://hkasaei.github.io
-).
+I am currently a fourth-year Ph.D. student in the Faculty of Science and Engineering at the University of Groningen, working under the supervision of Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Prior to pursuing my doctorate, I earned a Master's Degree in Artificial Intelligence at the University of Groningen, where I was guided by Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/) and Prof. [Hamidreza Kasaei](https://hkasaei.github.io).
 
 My research mainly focuses on Artificial Intelligence for Software Engineering, Technical Debt Management, and Mining Software Repositories.
+
+My research primarily revolves around Artificial Intelligence for Software Engineering. In the course of my studies, I have developed a strong foundation in AI and computer science, allowing me to approach complex problems with innovative solutions. I am passionate about advancing the field of software engineering through the application of cutting-edge AI techniques.
