@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the Faculty of Electrical Engineering, Mathematics, and Computer Science at the [University of Twente](https://en.wikipedia.org/wiki/University_of_Twente). My academic journey began with a Master’s Degree in Artificial Intelligence, under the esteemed guidance of Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/) and Prof. [Hamidreza Kasaei](https://hkasaei.github.io). I further honed my skills during my Ph.D. in Computer Science at the University of Groningen, mentored by Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Prior to this, I earned my Bachelor’s Degree in Software Engineering from Southeast University (东南大学).
+I am a Postdoctoral Researcher at the Faculty of Electrical Engineering, Mathematics, and Computer Science at the [University of Twente](https://en.wikipedia.org/wiki/University_of_Twente). My academic journey began with a Master’s Degree in Artificial Intelligence, under the esteemed guidance of Prof. [Hamidreza Kasaei](https://hkasaei.github.io) and Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/). I further honed my skills during my Ph.D. in Computer Science at the [University of Groningen](https://en.wikipedia.org/wiki/University_of_Groningen), mentored by Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Prior to this, I earned my Bachelor’s Degree in Software Engineering from [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) (东南大学).
 
-My research interests are centered around the intersection of Artificial Intelligence, Software Engineering, and Cybersecurity. Over the years, I have built a robust foundation in AI and computer science, which has equipped me to tackle complex challenges with innovative solutions. I am driven by my passion to push the boundaries of software engineering and cybersecurity through the application of advanced AI techniques.
-
-Here are some of my ongoing and completed projects:
+My research interests are centered around the intersection of Artificial Intelligence, Software Engineering, and Cybersecurity. Over the years, I have built a robust foundation in AI and computer science, which has equipped me to tackle complex challenges with innovative solutions. I am driven by my passion to push the boundaries of software engineering and cybersecurity through the application of advanced AI techniques. Here are some of my ongoing and completed projects:
 
 - **Large Language Model for Cybersecurity**
   - Status: In Progress
