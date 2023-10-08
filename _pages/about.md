@@ -15,7 +15,7 @@ My research interests are centered around the intersection of Artificial Intelli
 - **Large Language Model for Cybersecurity**
   - Work In Progress
 
-- **Software Maintainability and Evolvability: Self-Admitted Technical Debt (SATD) Management**
+- **Software Maintainability: Self-Admitted Technical Debt (SATD) Management**
   - Developers’ Perspectives and Management of SATD: [SEAA-2020](https://yikun-li.github.io/publications/SEAA2020.pdf), [TSE-2022](https://yikun-li.github.io/publications/TSE2022.pdf)
   - Identification of SATD in Multiple Sources: [EMSE-2021](https://yikun-li.github.io/publications/EMSE2022a.pdf), [EMSE-2022](https://yikun-li.github.io/publications/EMSE2022b.pdf)
   - SATD Relation Detection Across Various Sources: [TechDebt-2023](https://yikun-li.github.io/publications/TechDebt2023.pdf)
