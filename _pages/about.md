@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. student in the Faculty of Science and Engineering at the University of Groningen, working under the supervision of Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Prior to pursuing my doctorate, I earned a Master's Degree in Artificial Intelligence at the University of Groningen, where I was guided by Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/) and Prof. [Hamidreza Kasaei](https://hkasaei.github.io).
+I am a Postdoctoral Researcher at the Faculty of Electrical Engineering, Mathematics, and Computer Science at the [University of Twente](https://en.wikipedia.org/wiki/University_of_Twente). My academic journey began with a Master’s Degree in Artificial Intelligence, under the esteemed guidance of Prof. [Lambert Schomaker](https://www.ai.rug.nl/~lambert/) and Prof. [Hamidreza Kasaei](https://hkasaei.github.io). I further honed my skills during my Ph.D. in Computer Science at the University of Groningen, mentored by Prof. [Paris Avgeriou](http://www.cs.rug.nl/~paris/) and Dr. Mohamed Soliman. Prior to this, I earned my Bachelor’s Degree in Software Engineering from Southeast University (东南大学).
 
-My research primarily revolves around Artificial Intelligence for Software Engineering. In the course of my studies, I have developed a strong foundation in AI and computer science, allowing me to approach complex problems with innovative solutions. I am passionate about advancing the field of software engineering through the application of cutting-edge AI techniques.
+My research interests are centered around the intersection of Artificial Intelligence, Software Engineering, and Cybersecurity. Over the years, I have built a robust foundation in AI and computer science, which has equipped me to tackle complex challenges with innovative solutions. I am driven by my passion to push the boundaries of software engineering and cybersecurity through the application of advanced AI techniques.
+
+Here are some of my ongoing and completed projects:
+
+- **Large Language Model for Cybersecurity**
+  - Status: In Progress
+
+- **Software Maintainability and Evolvability: Self-Admitted Technical Debt (SATD) Management**
+  - Developers’ Perspectives and Management of SATD: [SEAA-2020](https://yikun-li.github.io/publications/SEAA2020.pdf), [TSE-2022](https://yikun-li.github.io/publications/TSE2022.pdf)
+  - Identification of SATD in Multiple Sources: [EMSE-2021](https://yikun-li.github.io/publications/EMSE2022a.pdf), [EMSE-2022](https://yikun-li.github.io/publications/EMSE2022b.pdf)
+  - SATD Relation Detection Across Various Sources: [TechDebt-2023](https://yikun-li.github.io/publications/TechDebt2023.pdf)
+  - Automatic Prediction of SATD Repayment Effort: [EMSE-2023](https://yikun-li.github.io/publications/EMSE2023.pdf)
+  - Tool Support for SATD Management: [ICSME-2023](https://yikun-li.github.io/publications/ICSME2023.pdf)
+
+- **Grasp Synthesis in Robot Object Manipulation**
+  - Deep Learning-based Grasp Synthesis for 3D Objects: [ROMAN-2020](https://yikun-li.github.io/publications/RO-MAN2020.pdf)
