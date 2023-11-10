@@ -21,7 +21,7 @@ Education
   
 - B.Sc. in Software Engineering
     - [Southeast University](https://en.wikipedia.org/wiki/Southeast_University), 2011 - 2015
-    - Supervisors: Prof. Li Yao
+    - Supervisor: Prof. Li Yao
 
 Work experience
 ======
