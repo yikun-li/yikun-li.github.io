@@ -2,8 +2,9 @@
 _site/
 .sass-cache/
 .jekyll-cache/
-Gemfile
 Gemfile.lock
 .jekyll-metadata
+vendor/
+__pycache__/
 .DS_Store
 .idea

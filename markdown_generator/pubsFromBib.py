@@ -71,15 +71,12 @@ for pubsource in publist:
             pub_year = f'{b["year"]}'
 
             #todo: this hack for month and day needs some cleanup
-            if "month" in b.keys(): 
-                if(len(b["month"])<3):
-                    pub_month = "0"+b["month"]
-                    pub_month = pub_month[-2:]
-                elif(b["month"] not in range(12)):
-                    tmnth = strptime(b["month"][:3],'%b').tm_mon   
-                    pub_month = "{:02d}".format(tmnth) 
+            if "month" in b.keys():
+                if(b["month"].isdigit()):
+                    pub_month = "{:02d}".format(int(b["month"]))
                 else:
-                    pub_month = str(b["month"])
+                    tmnth = strptime(b["month"][:3],'%b').tm_mon
+                    pub_month = "{:02d}".format(tmnth)
             if "day" in b.keys(): 
                 pub_day = str(b["day"])
 

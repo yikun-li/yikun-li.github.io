@@ -17,7 +17,7 @@ My research interests are centered around the intersection of Artificial Intelli
 
 - **Software Maintainability: Self-Admitted Technical Debt (SATD) Management**
   - Developers’ Perspectives and Management of SATD: [SEAA-2020](https://yikun-li.github.io/publications/SEAA2020.pdf), [TSE-2022](https://yikun-li.github.io/publications/TSE2022.pdf)
-  - Identification of SATD in Multiple Sources: [EMSE-2021](https://yikun-li.github.io/publications/EMSE2022a.pdf), [EMSE-2022](https://yikun-li.github.io/publications/EMSE2022b.pdf)
+  - Identification of SATD in Multiple Sources: [EMSE-2022](https://yikun-li.github.io/publications/EMSE2022a.pdf), [EMSE-2023](https://yikun-li.github.io/publications/EMSE2022b.pdf)
   - SATD Relation Detection Across Various Sources: [TechDebt-2023](https://yikun-li.github.io/publications/TechDebt2023.pdf)
   - Automatic Prediction of SATD Repayment Effort: [EMSE-2023](https://yikun-li.github.io/publications/EMSE2023.pdf)
   - Tool Support for SATD Management: [ICSME-2023](https://yikun-li.github.io/publications/ICSME2023.pdf)
