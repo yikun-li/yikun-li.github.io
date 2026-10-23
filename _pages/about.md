@@ -14,15 +14,15 @@ My research interests are centered around the intersection of Artificial Intelli
 
 <div class="edu-list">
   <div class="edu-row">
-    <div class="edu-main"><span class="edu-degree">Ph.D. in Computer Science</span>, <a href="https://en.wikipedia.org/wiki/University_of_Groningen">University of Groningen</a>, 2023</div>
+    <div class="edu-main"><span class="edu-left"><span class="edu-degree">Ph.D. in Computer Science</span>, <a href="https://en.wikipedia.org/wiki/University_of_Groningen">University of Groningen</a> <span class="edu-country">· the Netherlands · 2023</span></span></div>
     <div class="edu-detail">Supervised by Prof. <a href="http://www.cs.rug.nl/~paris/">Paris Avgeriou</a> and Prof. <a href="https://www.uni-paderborn.de/en/person/102489">Mohamed Soliman</a></div>
   </div>
   <div class="edu-row">
-    <div class="edu-main"><span class="edu-degree">M.Sc. in Artificial Intelligence</span>, <a href="https://en.wikipedia.org/wiki/University_of_Groningen">University of Groningen</a>, 2019</div>
+    <div class="edu-main"><span class="edu-left"><span class="edu-degree">M.Sc. in Artificial Intelligence</span>, <a href="https://en.wikipedia.org/wiki/University_of_Groningen">University of Groningen</a> <span class="edu-country">· the Netherlands · 2019</span></span></div>
     <div class="edu-detail">Supervised by Prof. <a href="https://hkasaei.github.io">Hamidreza Kasaei</a> and Prof. <a href="https://www.ai.rug.nl/~lambert/">Lambert Schomaker</a></div>
   </div>
   <div class="edu-row">
-    <div class="edu-main"><span class="edu-degree">B.Sc. in Software Engineering</span>, <a href="https://en.wikipedia.org/wiki/Southeast_University">Southeast University</a>, 2015</div>
+    <div class="edu-main"><span class="edu-left"><span class="edu-degree">B.Sc. in Software Engineering</span>, <a href="https://en.wikipedia.org/wiki/Southeast_University">Southeast University</a> <span class="edu-country">· China · 2015</span></span></div>
     <div class="edu-detail">Supervised by Prof. Li Yao</div>
   </div>
 </div>

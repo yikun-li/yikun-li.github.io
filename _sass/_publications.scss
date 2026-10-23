@@ -187,3 +187,12 @@
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+
+.edu-country {
+  color: mix(#fff, $text-color, 35%);
+  font-size: 0.9em;
+}
+
+.edu-main .edu-left {
+  flex: 1 1 auto;
+}
