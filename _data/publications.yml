@@ -1,85 +1,112 @@
-journals:
-  - id: J5
-    title: "Automatically Estimating the Effort Required to Repay Self-Admitted Technical Debt"
-    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
-    year: 2023
+all:
+  - id: 16
+    title: "Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?"
+    authors: "Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, Junkai Chen, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, David Lo"
+    venue: "IEEE/ACM International Conference on Software Engineering (<strong>ICSE</strong>)"
+    year: 2026
+    pdf: https://arxiv.org/abs/2507.21817
 
-  - id: J4
+  - id: 15
+    title: "SeCuRepair: A Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework"
+    authors: "Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, Junkai Chen, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo"
+    venue: "Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>)"
+    year: 2026
+    award: "SAC Highlight Award"
+    pdf: https://aclanthology.org/2026.acl-long.1481.pdf
+
+  - id: 14
+    title: "SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios"
+    authors: "Junkai Chen, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, David Lo"
+    venue: "Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>)"
+    year: 2026
+    pdf: https://arxiv.org/abs/2509.22097
+
+  - id: 13
+    title: "PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing"
+    authors: "Huihui Huang, Jieke Shi, Junkai Chen, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, David Lo"
+    venue: "IEEE/ACM International Conference on Software Engineering (<strong>ICSE</strong>), NIER track"
+    year: 2026
+    pdf: https://arxiv.org/abs/2601.06910
+
+  - id: 12
+    title: "TitanCA: Lessons from Orchestrating LLM Agents to Discover 100+ CVEs"
+    authors: "Ting Zhang, Yikun Li, Chengran Yang, Ratnadira Widyasari, Yue Liu, Ngoc Tan Bui, Phuc Thanh Nguyen, Yan Naing Tun, Ivana Clairine Irsan, Huu Hung Nguyen, Huihui Huang, Jinfeng Jiang, Lwin Khin Shar, Eng Lieh Ouh, David Lo, Hong Jin Kang, Yide Yin, Wen Bin Leow"
+    venue: "IEEE Security & Privacy"
+    year: 2026
+    pdf: https://arxiv.org/abs/2604.17860
+
+  - id: 11
+    title: "Revisiting Vulnerability Patch Identification on Data in the Wild"
+    authors: "Clairine Irsan, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Ferdian Thung, Yikun Li, Lwin Khin Shar, Eng Lieh Ouh, Hong Jin Kang, David Lo"
+    venue: "ACM Transactions on Software Engineering and Methodology (<strong>TOSEM</strong>)"
+    year: 2025
+    pdf: https://arxiv.org/abs/2603.17266
+
+  - id: 10
     title: "Automatic Identification of Self-Admitted Technical Debt from Four Different Sources"
     authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
-    venue: "Empirical Software Engineering"
-    venue_detail: "28, 65"
-    year: 2023
+    venue: "Empirical Software Engineering (<strong>EMSE</strong>)"
+    year: 2024
     pdf: https://arxiv.org/abs/2202.02387
 
-  - id: J3
-    title: "Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study"
-    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou, Lou Somers"
-    venue: "IEEE Transactions on Software Engineering"
-    year: 2022
-    pdf: https://arxiv.org/abs/2205.13872
-
-  - id: J2
-    title: "Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning"
-    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
-    venue: "Empirical Software Engineering"
-    venue_detail: "27, 131"
-    year: 2022
-    pdf: https://arxiv.org/abs/2202.02180
-
-  - id: J1
-    title: "Architectural Design Decisions That Incur Technical Debt — An Industrial Case Study"
-    authors: "Mohamed Soliman, Paris Avgeriou, Yikun Li"
-    venue: "Information and Software Technology"
-    venue_detail: "p. 106669"
-    year: 2021
-
-conferences:
-  - id: C5
-    title: "DebtViz: A Tool for Identifying, Measuring, Visualizing, and Monitoring Self-Admitted Technical Debt"
-    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou, Maarten van Ittersum"
-    venue: "39th International Conference on Software Maintenance and Evolution (ICSME)"
-    location: "Bogotá, Colombia"
-    year: 2023
-    pdf: https://arxiv.org/abs/2308.13128
-
-  - id: C4
+  - id: 9
     title: "Automatically Identifying Relations Between Self-Admitted Technical Debt Across Different Sources"
     authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
-    venue: "6th International Conference on Technical Debt (TechDebt)"
-    location: "Melbourne, Australia"
+    venue: "International Conference on Technical Debt (<strong>TechDebt</strong>)"
     year: 2023
     pdf: https://arxiv.org/abs/2303.07079
 
-  - id: C3
+  - id: 8
+    title: "DebtViz: A Tool for Identifying, Measuring, Visualizing, and Monitoring Self-Admitted Technical Debt"
+    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou, Maarten van Ittersum"
+    venue: "International Conference on Software Maintenance and Evolution (<strong>ICSME</strong>), Tool Demo track"
+    year: 2023
+    pdf: https://arxiv.org/abs/2308.13128
+
+  - id: 7
+    title: "Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study"
+    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou, Lou Somers"
+    venue: "IEEE Transactions on Software Engineering (<strong>TSE</strong>)"
+    year: 2023
+    pdf: https://arxiv.org/abs/2205.13872
+
+  - id: 6
+    title: "Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning"
+    authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
+    venue: "Empirical Software Engineering (<strong>EMSE</strong>)"
+    year: 2022
+    pdf: https://arxiv.org/abs/2202.02180
+
+  - id: 5
     title: "Exploring Web Search Engines to Find Architectural Knowledge"
     authors: "Mohamed Soliman, Marion Wiese, Yikun Li, Matthias Riebisch, Paris Avgeriou"
-    venue: "18th International Conference on Software Architecture (ICSA)"
-    location: "Stuttgart, Germany"
+    venue: "International Conference on Software Architecture (<strong>ICSA</strong>)"
     year: 2021
     pdf: https://arxiv.org/abs/2103.11705
 
-  - id: C2
+  - id: 4
+    title: "Architectural Design Decisions That Incur Technical Debt: An Industrial Case Study"
+    authors: "Mohamed Soliman, Paris Avgeriou, Yikun Li"
+    venue: "Information and Software Technology (<strong>IST</strong>)"
+    year: 2021
+
+  - id: 3
     title: "Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers"
     authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
-    venue: "46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)"
-    location: "Portorož, Slovenia"
+    venue: "Euromicro Conference on Software Engineering and Advanced Applications (<strong>SEAA</strong>)"
     year: 2020
     award: "Best Paper Award"
     pdf: https://arxiv.org/abs/2007.01568
 
-  - id: C1
-    title: "Learning to Grasp 3D Objects using Deep Residual U-Nets"
-    authors: "Yikun Li, Lambert Schomaker, S. Hamidreza Kasaei"
-    venue: "29th International Conference on Robot and Human Interactive Communication (RO-MAN)"
-    location: "Naples, Italy"
+  - id: 2
+    title: "Learning to Grasp 3D Objects Using Deep Residual U-Nets"
+    authors: "Yikun Li, Lambert Schomaker, Hamidreza Kasaei"
+    venue: "International Conference on Robot and Human Interactive Communication (<strong>RO-MAN</strong>)"
     year: 2020
     pdf: https://arxiv.org/abs/2002.03892
 
-workshops:
-  - id: W1
+  - id: 1
     title: "Learning to Detect Grasp Affordances of 3D Objects using Deep Convolutional Neural Networks"
-    authors: "Yikun Li, Lambert Schomaker, S. Hamidreza Kasaei"
-    venue: "Robotics: Science and Systems (RSS), 2nd Workshop on Task-Informed Grasping (TIG-II): From Perception to Physical Interaction"
-    location: "Freiburg, Germany"
+    authors: "Yikun Li, Mario Rios-Munoz, Lambert Schomaker, Hamidreza Kasaei"
+    venue: "RSS Workshop on Task-Informed Grasping (<strong>TIG-II</strong>)"
     year: 2019

@@ -7,14 +7,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-Reviewed Journal Articles
-
-{% include publication-list.html pubs=site.data.publications.journals %}
-
-## Peer-Reviewed Conference Papers
-
-{% include publication-list.html pubs=site.data.publications.conferences %}
-
-## Workshop Papers
-
-{% include publication-list.html pubs=site.data.publications.workshops %}
+{% include publication-list.html pubs=site.data.publications.all %}
