@@ -103,3 +103,19 @@
     }
   }
 }
+
+.page__title-link {
+  font-size: 0.55em;
+  font-weight: bold;
+  color: $link-color;
+  white-space: nowrap;
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
