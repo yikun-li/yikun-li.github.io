@@ -138,7 +138,7 @@
 .author__affiliation {
   @include breakpoint($large) {
     margin-top: 1px;
-    margin-bottom: 26px;
+    margin-bottom: 14px;
   }
 }
 
@@ -244,6 +244,39 @@
 
     &:hover {
       text-decoration: underline;
+    }
+  }
+}
+
+/* Centered icon-only contact row (desktop sidebar) */
+@include breakpoint($large) {
+  .sidebar .author__urls-wrapper {
+    text-align: center;
+  }
+
+  .sidebar .author__urls {
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      margin: 0 9px;
+      white-space: nowrap;
+    }
+
+    .label-text {
+      display: none;
+    }
+
+    a {
+      color: #13294b;
+      font-size: 0.85rem;
+      text-decoration: none;
+
+      &:hover {
+        color: $link-color;
+      }
     }
   }
 }
