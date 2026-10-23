@@ -14,10 +14,11 @@
       {% else %}
       <div class="pub-venue">{{ pub.year }}</div>
       {% endif %}
+      {% if pub.pdf %}
       <div class="pub-links">
-        {% if pub.pdf %}<a class="pub-btn" href="{{ pub.pdf }}" target="_blank" rel="noopener">{% if pub.pdf contains "arxiv.org" %}arXiv{% else %}PDF{% endif %}</a>{% endif %}
-        {% if pub.bib %}<a class="pub-btn" href="{{ pub.bib }}" target="_blank" rel="noopener">BIB</a>{% endif %}
+        <a class="pub-btn" href="{{ pub.pdf }}" target="_blank" rel="noopener">{% if pub.pdf contains "arxiv.org" %}arXiv{% else %}PDF{% endif %}</a>
       </div>
+      {% endif %}
     </div>
   </div>
   {% endfor %}

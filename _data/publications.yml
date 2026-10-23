@@ -3,7 +3,6 @@ journals:
     title: "Automatically Estimating the Effort Required to Repay Self-Admitted Technical Debt"
     authors: "Yikun Li, Mohamed Soliman, Paris Avgeriou"
     year: 2023
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2023_BIB.html
 
   - id: J4
     title: "Automatic Identification of Self-Admitted Technical Debt from Four Different Sources"
@@ -12,7 +11,6 @@ journals:
     venue_detail: "28, 65"
     year: 2023
     pdf: https://arxiv.org/abs/2202.02387
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022b_BIB.html
 
   - id: J3
     title: "Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study"
@@ -20,7 +18,6 @@ journals:
     venue: "IEEE Transactions on Software Engineering"
     year: 2022
     pdf: https://arxiv.org/abs/2205.13872
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/TSE2022_BIB.html
 
   - id: J2
     title: "Identifying Self-Admitted Technical Debt in Issue Tracking Systems Using Machine Learning"
@@ -29,7 +26,6 @@ journals:
     venue_detail: "27, 131"
     year: 2022
     pdf: https://arxiv.org/abs/2202.02180
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/EMSE2022a_BIB.html
 
   - id: J1
     title: "Architectural Design Decisions That Incur Technical Debt — An Industrial Case Study"
@@ -37,7 +33,6 @@ journals:
     venue: "Information and Software Technology"
     venue_detail: "p. 106669"
     year: 2021
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/IST2021_BIB.html
 
 conferences:
   - id: C5
@@ -47,7 +42,6 @@ conferences:
     location: "Bogotá, Colombia"
     year: 2023
     pdf: https://arxiv.org/abs/2308.13128
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/ICSME2023_BIB.html
 
   - id: C4
     title: "Automatically Identifying Relations Between Self-Admitted Technical Debt Across Different Sources"
@@ -56,7 +50,6 @@ conferences:
     location: "Melbourne, Australia"
     year: 2023
     pdf: https://arxiv.org/abs/2303.07079
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/TechDebt2023_BIB.html
 
   - id: C3
     title: "Exploring Web Search Engines to Find Architectural Knowledge"
@@ -65,7 +58,6 @@ conferences:
     location: "Stuttgart, Germany"
     year: 2021
     pdf: https://arxiv.org/abs/2103.11705
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/ICSA2021_BIB.html
 
   - id: C2
     title: "Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers"
@@ -75,7 +67,6 @@ conferences:
     year: 2020
     award: "Best Paper Award"
     pdf: https://arxiv.org/abs/2007.01568
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/SEAA2020_BIB.html
 
   - id: C1
     title: "Learning to Grasp 3D Objects using Deep Residual U-Nets"
@@ -84,7 +75,6 @@ conferences:
     location: "Naples, Italy"
     year: 2020
     pdf: https://arxiv.org/abs/2002.03892
-    bib: https://raw.githubusercontent.com/yikun-li/yikun-li.github.io/master/_publications/RO-MAN2020_BIB.html
 
 workshops:
   - id: W1
