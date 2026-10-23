@@ -176,6 +176,7 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  text-align: right;
 
   a {
     display: block;
@@ -202,15 +203,11 @@
   }
 
   .visible-links {
-    display: table;
+    display: inline-flex;
+    align-items: center;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
-
       &:first-child {
-        font-weight: bold;
-
         a {
           margin-left: 0;
         }
