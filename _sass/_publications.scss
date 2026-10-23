@@ -158,3 +158,32 @@
     }
   }
 }
+
+.page__content .edu-heading {
+  padding-bottom: 0;
+  border-bottom: none;
+  font-size: 1.1em;
+  color: mix(#fff, $text-color, 15%);
+  margin-bottom: 0.9em;
+}
+
+.edu-main .edu-degree {
+  font-weight: 600;
+}
+
+.edu-main a,
+.edu-row .edu-detail a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.25);
+    text-underline-offset: 3px;
+  }
+}
+
+.page__content > p > a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
