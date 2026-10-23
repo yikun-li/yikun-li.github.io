@@ -1,0 +1,105 @@
+/* ==========================================================================
+   PUBLICATION LIST
+   ========================================================================== */
+
+.pub-list {
+  margin-bottom: 2em;
+}
+
+.pub-row {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.4em;
+}
+
+.pub-badge-col {
+  flex-shrink: 0;
+  margin-right: 14px;
+}
+
+.pub-badge {
+  display: inline-block;
+  min-width: 2.2em;
+  padding: 2px 7px;
+  border-radius: 5px;
+  background-color: #eef1f4;
+  color: #52606d;
+  font-family: $monospace;
+  font-size: 0.72em;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.8;
+}
+
+.pub-main {
+  flex-grow: 1;
+}
+
+.pub-title {
+  font-size: 0.95em;
+  font-weight: 600;
+  line-height: 1.4;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+.pub-award {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 8px;
+  border-radius: 10px;
+  background-color: #fff3cd;
+  color: #8a6100;
+  font-size: 0.72em;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.pub-authors {
+  margin-top: 2px;
+  font-size: 0.8em;
+  color: mix(#000, $text-color, 10%);
+
+  strong {
+    color: $text-color;
+  }
+}
+
+.pub-venue {
+  margin-top: 1px;
+  font-size: 0.8em;
+  color: mix(#fff, $text-color, 35%);
+}
+
+.pub-links {
+  margin-top: 5px;
+
+  .pub-btn {
+    display: inline-block;
+    margin-right: 6px;
+    padding: 0 9px;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+    color: mix(#fff, $text-color, 35%);
+    font-size: 0.7em;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    line-height: 1.9;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    &:hover {
+      border-color: $link-color;
+      background-color: $link-color;
+      color: #fff;
+    }
+  }
+}

@@ -16,11 +16,11 @@ My research interests are centered around the intersection of Artificial Intelli
   - Work In Progress
 
 - **Software Maintainability: Self-Admitted Technical Debt (SATD) Management**
-  - Developers’ Perspectives and Management of SATD: [SEAA-2020](https://yikun.li/publications/SEAA2020.pdf), [TSE-2022](https://yikun.li/publications/TSE2022.pdf)
-  - Identification of SATD in Multiple Sources: [EMSE-2022](https://yikun.li/publications/EMSE2022a.pdf), [EMSE-2023](https://yikun.li/publications/EMSE2022b.pdf)
-  - SATD Relation Detection Across Various Sources: [TechDebt-2023](https://yikun.li/publications/TechDebt2023.pdf)
-  - Automatic Prediction of SATD Repayment Effort: [EMSE-2023](https://yikun.li/publications/EMSE2023.pdf)
-  - Tool Support for SATD Management: [ICSME-2023](https://yikun.li/publications/ICSME2023.pdf)
+  - Developers’ Perspectives and Management of SATD: [SEAA-2020](https://arxiv.org/abs/2007.01568), [TSE-2022](https://arxiv.org/abs/2205.13872)
+  - Identification of SATD in Multiple Sources: [EMSE-2022](https://arxiv.org/abs/2202.02180), [EMSE-2023](https://arxiv.org/abs/2202.02387)
+  - SATD Relation Detection Across Various Sources: [TechDebt-2023](https://arxiv.org/abs/2303.07079)
+  - Automatic Prediction of SATD Repayment Effort: [EMSE-2023](/publications/)
+  - Tool Support for SATD Management: [ICSME-2023](https://arxiv.org/abs/2308.13128)
 
 - **Grasp Synthesis in Robot Object Manipulation**
-  - Deep Learning-based Grasp Synthesis for 3D Objects: [ROMAN-2020](https://yikun.li/publications/RO-MAN2020.pdf)
+  - Deep Learning-based Grasp Synthesis for 3D Objects: [ROMAN-2020](https://arxiv.org/abs/2002.03892)

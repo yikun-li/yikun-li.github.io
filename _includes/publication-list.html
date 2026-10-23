@@ -1,0 +1,24 @@
+{% capture author_highlight %}<strong>{{ site.author.name }}</strong>{% endcapture %}
+<div class="pub-list">
+  {% for pub in include.pubs %}
+  <div class="pub-row">
+    <div class="pub-badge-col"><span class="pub-badge">{{ pub.id }}</span></div>
+    <div class="pub-main">
+      <div class="pub-title">
+        {% if pub.pdf %}<a href="{{ pub.pdf }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
+        {% if pub.award %}<span class="pub-award">&#127942; {{ pub.award }}</span>{% endif %}
+      </div>
+      <div class="pub-authors">{{ pub.authors | replace: site.author.name, author_highlight }}</div>
+      {% if pub.venue %}
+      <div class="pub-venue"><em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.location %}, {{ pub.location }}{% endif %}, {{ pub.year }}</div>
+      {% else %}
+      <div class="pub-venue">{{ pub.year }}</div>
+      {% endif %}
+      <div class="pub-links">
+        {% if pub.pdf %}<a class="pub-btn" href="{{ pub.pdf }}" target="_blank" rel="noopener">{% if pub.pdf contains "arxiv.org" %}arXiv{% else %}PDF{% endif %}</a>{% endif %}
+        {% if pub.bib %}<a class="pub-btn" href="{{ pub.bib }}" target="_blank" rel="noopener">BIB</a>{% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
